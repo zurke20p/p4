@@ -11,5 +11,6 @@ Dawid - https://codesandbox.io/s/summer-platform-z2k9tn?file=/src/index.ts
 
 Suszek - https://codesandbox.io/s/optimistic-matsumoto-zw4rwf?file=/src/index.ts
 
-Nowosad - https://codesandbox.io/s/todolist-r9tncv?file=/src/index.ts
+Pucia - https://codesandbox.io/s/cool-galois-wv8zhc
 
+Nowosad - https://codesandbox.io/s/todolist-r9tncv?file=/src/index.ts
