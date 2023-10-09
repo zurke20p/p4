@@ -25,6 +25,8 @@ Polak - https://codesandbox.io/s/hardcore-fermat-5wrqwx?file=/index.html
 
 Szaszkowska - https://codesandbox.io/s/todolist-xjq35g
 
+Trzeciak Marek - https://codesandbox.io/s/taskmanager-ljq92m
+
 Stefanków - https://codesandbox.io/s/to-do-list-wy74j7
 
 Włoch - https://codesandbox.io/s/to-do-list-83wdv8
