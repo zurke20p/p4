@@ -1,10 +1,4 @@
 # p4
-
-## Wymagania:
-- dodanie, edycja(treść, działa niedziała), usunięcie
-- wyświetla zrobione, niezrobione, usunięte
-- localstorage fajniebybyło
-
 Błażej Łuczak - https://codesandbox.io/s/recursing-margulis-yw8lls?file=/src/index.ts
 
 Dominik - https://codesandbox.io/s/lively-waterfall-hwhql2?file=/src/index.ts
@@ -26,3 +20,5 @@ Polak - https://codesandbox.io/s/hardcore-fermat-5wrqwx?file=/index.html
 Szaszkowska - https://codesandbox.io/s/todolist-xjq35g
 
 Stefanków - https://codesandbox.io/s/to-do-list-wy74j7
+
+Włoch - https://codesandbox.io/s/to-do-list-83wdv8
