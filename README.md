@@ -18,3 +18,5 @@ Nowosad - https://codesandbox.io/s/todolist-r9tncv?file=/src/index.ts
 Polak - https://codesandbox.io/s/hardcore-fermat-5wrqwx?file=/index.html
 
 Szaszkowska - https://codesandbox.io/s/todolist-xjq35g
+
+Wiora - https://codesandbox.io/s/falling-rain-njcqpn
